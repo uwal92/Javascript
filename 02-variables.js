@@ -8,7 +8,7 @@ npx mocha test/02-variables-spec.js
 */
 
 // 1. Print the following variable to the console
-let mouse = 'Mickey';
+let mouse = 'samri';
 // Your code here 
 console.log(mouse);
 
